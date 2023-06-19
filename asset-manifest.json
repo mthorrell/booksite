@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/booksite/static/js/main.f20b68d0.js",
+    "static/js/678.0fa09975.js": "/booksite/static/js/678.0fa09975.js",
+    "static/media/img2.png": "/booksite/static/media/img2.8e2012e0b868e95c579c.png",
+    "favicon.ico": "/booksite/favicon.ico",
+    "index.html": "/booksite/index.html",
+    "favicon-32.png": "/booksite/favicon-32.png",
+    "favicon-16.png": "/booksite/favicon-16.png",
+    "serve.json": "/booksite/serve.json",
+    "manifest.json": "/booksite/manifest.json",
+    "main.f20b68d0.js.map": "/booksite/static/js/main.f20b68d0.js.map",
+    "678.0fa09975.js.map": "/booksite/static/js/678.0fa09975.js.map"
+  },
+  "entrypoints": [
+    "static/js/678.0fa09975.js",
+    "static/js/main.f20b68d0.js"
+  ]
+}
