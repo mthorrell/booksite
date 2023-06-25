@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/booksite/static/js/main.3d3d38aa.js",
-    "static/js/456.a9a0ba79.js": "/booksite/static/js/456.a9a0ba79.js",
+    "main.js": "/booksite/static/js/main.953e5525.js",
+    "static/js/456.a7310617.js": "/booksite/static/js/456.a7310617.js",
     "static/media/C00.05.png": "/booksite/static/media/C00.05.9450ebcfb8cb5061d828.png",
     "static/media/img1.png": "/booksite/static/media/img1.03c78140f4636eb69840.png",
     "static/media/C05.13.png": "/booksite/static/media/C05.13.028bd85e4d67b25dbec3.png",
@@ -59,11 +59,11 @@
     "favicon-16.png": "/booksite/favicon-16.png",
     "serve.json": "/booksite/serve.json",
     "manifest.json": "/booksite/manifest.json",
-    "main.3d3d38aa.js.map": "/booksite/static/js/main.3d3d38aa.js.map",
-    "456.a9a0ba79.js.map": "/booksite/static/js/456.a9a0ba79.js.map"
+    "main.953e5525.js.map": "/booksite/static/js/main.953e5525.js.map",
+    "456.a7310617.js.map": "/booksite/static/js/456.a7310617.js.map"
   },
   "entrypoints": [
-    "static/js/456.a9a0ba79.js",
-    "static/js/main.3d3d38aa.js"
+    "static/js/456.a7310617.js",
+    "static/js/main.953e5525.js"
   ]
 }
