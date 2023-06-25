@@ -2,7 +2,7 @@
 
 [https://mthorrell.github.io/booksite/](https://mthorrell.github.io/booksite/)
 
-Booksite is a web application that displays original text, as well as ChatGPT-generated summaries and quotes, from books available at [Project Gutenberg](https://www.gutenberg.org/).
+Booksite is a web application that displays original text, as well as ChatGPT-generated summaries and quotes, from books available at [Project Gutenberg](https://www.gutenberg.org/). Some summaries have images attached to them, created using text-to-image prompts (also provided by ChatGPT) with [Midjourney](https://www.midjourney.com).
 
 ## Disclaimer
 
