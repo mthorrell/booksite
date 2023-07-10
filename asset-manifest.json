@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/booksite/static/js/main.18bed81e.js",
-    "static/js/374.229e3b05.js": "/booksite/static/js/374.229e3b05.js",
+    "main.js": "/booksite/static/js/main.b5d159b8.js",
+    "static/js/456.bd867f70.js": "/booksite/static/js/456.bd867f70.js",
     "static/media/C00.05.png": "/booksite/static/media/C00.05.9450ebcfb8cb5061d828.png",
     "static/media/C05.13.png": "/booksite/static/media/C05.13.028bd85e4d67b25dbec3.png",
     "static/media/C00.02.png": "/booksite/static/media/C00.02.8825ade565ac2d2509ca.png",
@@ -61,11 +61,11 @@
     "favicon-16.png": "/booksite/favicon-16.png",
     "serve.json": "/booksite/serve.json",
     "manifest.json": "/booksite/manifest.json",
-    "main.18bed81e.js.map": "/booksite/static/js/main.18bed81e.js.map",
-    "374.229e3b05.js.map": "/booksite/static/js/374.229e3b05.js.map"
+    "main.b5d159b8.js.map": "/booksite/static/js/main.b5d159b8.js.map",
+    "456.bd867f70.js.map": "/booksite/static/js/456.bd867f70.js.map"
   },
   "entrypoints": [
-    "static/js/374.229e3b05.js",
-    "static/js/main.18bed81e.js"
+    "static/js/456.bd867f70.js",
+    "static/js/main.b5d159b8.js"
   ]
 }
