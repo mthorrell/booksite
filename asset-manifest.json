@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/booksite/static/js/main.b5d159b8.js",
+    "main.js": "/booksite/static/js/main.013ece5b.js",
     "static/js/456.bd867f70.js": "/booksite/static/js/456.bd867f70.js",
     "static/media/C00.05.png": "/booksite/static/media/C00.05.9450ebcfb8cb5061d828.png",
     "static/media/C05.13.png": "/booksite/static/media/C05.13.028bd85e4d67b25dbec3.png",
@@ -16,6 +16,7 @@
     "static/media/C05.15.png": "/booksite/static/media/C05.15.989d52edb5ea28e88b19.png",
     "static/media/C05.18.png": "/booksite/static/media/C05.18.7e761ab0a9f97dadd729.png",
     "static/media/C05.16.png": "/booksite/static/media/C05.16.40b9dcd6d280c5a8be04.png",
+    "static/media/C06.01.png": "/booksite/static/media/C06.01.dde41f461fe12c12f96c.png",
     "static/media/C00.03.png": "/booksite/static/media/C00.03.882c10ab70f75b504641.png",
     "static/media/C05.17.png": "/booksite/static/media/C05.17.e97dc06722a9fc83f126.png",
     "static/media/C00.06.png": "/booksite/static/media/C00.06.6ed1673138a9c429a757.png",
@@ -61,11 +62,11 @@
     "favicon-16.png": "/booksite/favicon-16.png",
     "serve.json": "/booksite/serve.json",
     "manifest.json": "/booksite/manifest.json",
-    "main.b5d159b8.js.map": "/booksite/static/js/main.b5d159b8.js.map",
+    "main.013ece5b.js.map": "/booksite/static/js/main.013ece5b.js.map",
     "456.bd867f70.js.map": "/booksite/static/js/456.bd867f70.js.map"
   },
   "entrypoints": [
     "static/js/456.bd867f70.js",
-    "static/js/main.b5d159b8.js"
+    "static/js/main.013ece5b.js"
   ]
 }
