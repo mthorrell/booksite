@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/booksite/static/js/main.a8627364.js",
+    "main.js": "/booksite/static/js/main.538198f5.js",
     "static/js/456.bd867f70.js": "/booksite/static/js/456.bd867f70.js",
     "static/media/C00.05.png": "/booksite/static/media/C00.05.9450ebcfb8cb5061d828.png",
     "static/media/C05.13.png": "/booksite/static/media/C05.13.028bd85e4d67b25dbec3.png",
@@ -63,11 +63,11 @@
     "favicon-16.png": "/booksite/favicon-16.png",
     "serve.json": "/booksite/serve.json",
     "manifest.json": "/booksite/manifest.json",
-    "main.a8627364.js.map": "/booksite/static/js/main.a8627364.js.map",
+    "main.538198f5.js.map": "/booksite/static/js/main.538198f5.js.map",
     "456.bd867f70.js.map": "/booksite/static/js/456.bd867f70.js.map"
   },
   "entrypoints": [
     "static/js/456.bd867f70.js",
-    "static/js/main.a8627364.js"
+    "static/js/main.538198f5.js"
   ]
 }
